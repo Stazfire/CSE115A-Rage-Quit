@@ -10,7 +10,6 @@ public class CameraMovement : MonoBehaviour
     public float clampBot = -45f;
 
     public float xRotation = 0f;
-    bool phoneOn = false;
 
     // Start is called before the first frame update
     void Start()
